@@ -1,0 +1,1 @@
+1. Application az-java17-mave-edp has been successfully deployed!!
